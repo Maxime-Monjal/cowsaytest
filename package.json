@@ -1,0 +1,14 @@
+{
+  "name": "cow-say",
+  "version": "1.0.0",
+  "description": "cow say ",
+  "main": "index.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Max",
+  "license": "ISC",
+  "dependencies": {
+    "cowsay": "^1.4.0"
+  }
+}
